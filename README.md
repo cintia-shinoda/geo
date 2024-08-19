@@ -2,4 +2,4 @@
 
 |  | # | Type | Course / Book | Author | Status |
 |:---:|:---:|:---:|:---|:---|:---:|
-|  | 1 |  |  |  | ![0%](https://progress-bar.dev/0) |
+|  | 1 | Course | Posicionamento GNSS: Fundamentos e aplicações | USP | ![0%](https://geps.dev/progress/0) |
